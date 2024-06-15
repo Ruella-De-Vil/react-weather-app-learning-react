@@ -7,6 +7,7 @@ export default function Weather() {
     <div className="Weather">
       <h1>Weather App</h1>
       <SearchEngine />
+      <footer>Created by: Ruella, This code is open sourced on <a href="https://github.com/Ruella-De-Vil/react-weather-app-learning-react">GitHub</a>.</footer>
     </div>
   );
 }
